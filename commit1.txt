@@ -1,2 +1,3 @@
-cap nhat boi master
+
 cap nhat tai GitHub
+xu ly xung dot
